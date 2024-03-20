@@ -1,4 +1,4 @@
-Project - STACS Data Analyst Case Study
+Project (From Real Company) - STACS Data Analyst Case Study
 
 ESGpedia regularly collects datasets from various data registries and data partners. For this case study, you will be tasked to collect and analyze data from a data registry called NABERS.
 
